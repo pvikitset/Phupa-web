@@ -10367,7 +10367,7 @@ h1, h2, h3, h4, h5,
 .navbar-brand {
     font-weight: 700;
     font-size: 20px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 .hero-wrap {
